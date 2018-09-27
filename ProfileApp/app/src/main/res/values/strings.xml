@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProfileApp</string>
+    <string name="title_activity_screen">ScreenActivity</string>
+    <string name="title_home">Home Page</string>
+    <string name="title_dashboard">Dashboard Page</string>
+    <string name="do_late">We will do this fragment later</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_information">INFORMATION</string>
+    <string name="title_friend">FRIENDS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
